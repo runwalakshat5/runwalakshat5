@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat   <img src="https://cdn.lowgif.com/small/004faa2f4e3cd386-minion-animated-clipart-images.gif" width="60" height="60"/></h1>
-<h3 align="center">I'm learning to become a Software Developer ~ Currently a Senior undergrad @SGSITS,Indore</h3>
+<h3 align="center">I'm learning to become a Software Developer ~ Currently a Grad Student @Rensselaer Polytechnic Institute(RPI),Troy, NY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runwalakshat5" alt="runwalakshat5" /> </p>
 
