@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep-Learning**
 
-- 🤝 I’m open for opportunities as **Data Scientist/Software Developer/Python/SQL/Web Developer**
+- 🤝 I’m open for opportunities as **Software Developer/Associate Software Engineer/Full Stack Engineer/Data Scientist**
 
 - 👩‍💻 Everything about me [[Akshat's Portfolio]](https://bit.ly/akshatrunwal)
 
