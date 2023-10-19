@@ -5,13 +5,13 @@
 
 - 🌍 I’m from **Indore (INDIA)**
 
-- 🌱 I’m currently learning **Deep-Learning**
+- 🌱 I’m currently learning **CI/CD (Continuous Integration and Delivery)**
 
 - 🤝 I’m open for opportunities as **Software Developer/Associate Software Engineer/Full Stack Engineer/Data Scientist**
 
 - 👩‍💻 Everything about me [[Akshat's Portfolio]](https://bit.ly/akshatrunwal)
 
-- 💬 Let's talk about ** AI, Machine Learning, Python, Data Analytics, UI/UX and more...**
+- 💬 Let's talk about ** Software Development, AI, Machine Learning, Python, Data Analytics, UI/UX and more...**
 
 - 📫 Reach out to me at **runwalakshat5@gmail.com**
 
